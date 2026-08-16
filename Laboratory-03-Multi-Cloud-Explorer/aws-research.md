@@ -89,5 +89,3 @@ Figure 1. Official AWS website screenshot.
 - Amazon Web Services. (n.d.-b). AWS global infrastructure. https://aws.amazon.com/about-aws/global-infrastructure/
 - Amazon Web Services. (n.d.-c). AWS Management Console. https://aws.amazon.com/console/
 - Amazon Web Services. (n.d.-d). AWS Regions and Availability Zones. https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions.html
-
-AWS's official documentation describes Regions as geographic areas and Availability Zones as isolated locations within Regions.
