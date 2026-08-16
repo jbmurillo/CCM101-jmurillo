@@ -5,7 +5,7 @@
 
 
 - *Operating System:* Ubuntu 24.04.4 LTS
-- *CPU:* Intel Xeon E312xx
+- *CPU:* Intel Xeon E312xx (Sandy Bridge) @ 2.0 GHz
 - *CPU Count:* 1
 - *Memory:* 1.9 GiB RAM
 - *Disk Space:* 19 GB total
