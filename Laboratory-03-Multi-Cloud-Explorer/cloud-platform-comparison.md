@@ -41,6 +41,17 @@ Google Cloud is strong in Artificial Intelligence and Kubernetes. It provides AI
 
 I would choose Microsoft Azure because it works well with Microsoft technologies. I also think it would be useful for organizations that already use Microsoft products.
 
+## Equivalent Cloud Services
+
+
+| Service Category | AWS | Microsoft Azure | Google Cloud |
+|---|---|---|---|
+| Virtual Machine | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| Object Storage | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| Identity Management | AWS IAM | Microsoft Entra ID | Cloud Identity |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
 
 ## References
 
