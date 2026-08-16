@@ -76,7 +76,7 @@ AWS can be used by enterprises to host websites and applications, store business
 ## Screenshot
 
 
-![AWS Official Homepage](Pictures/Screenshots/aws-homepage.png)
+![AWS Official Homepage](Screenshots/aws-homepage.png)
 
 
 Figure 1. Official AWS website screenshot.
